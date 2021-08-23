@@ -1,0 +1,17 @@
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/bin/Debug/net5.0/Application.deps.json
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/bin/Debug/net5.0/Application.dll
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/bin/Debug/net5.0/Application.pdb
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/bin/Debug/net5.0/Domain.dll
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/bin/Debug/net5.0/Persistence.dll
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/bin/Debug/net5.0/Domain.pdb
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/obj/Debug/net5.0/Application.csproj.AssemblyReference.cache
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/obj/Debug/net5.0/Application.dll
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Application/obj/Debug/net5.0/Application.pdb

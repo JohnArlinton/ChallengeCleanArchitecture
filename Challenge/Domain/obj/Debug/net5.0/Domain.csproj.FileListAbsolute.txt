@@ -1,0 +1,12 @@
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/bin/Debug/net5.0/Domain.dll
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/obj/Debug/net5.0/Domain.dll
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/johnarlinton/Library/Mobile Documents/com~apple~CloudDocs/Development/Challenge Koibanx/Challenge/Domain/obj/Debug/net5.0/Domain.pdb
